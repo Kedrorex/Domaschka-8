@@ -1,0 +1,15 @@
+C:\Users\Айдар\Desktop\1\C#\Domaschka#8\HJ2\obj\Debug\net7.0\HJ2.csproj.AssemblyReference.cache
+C:\Users\Айдар\Desktop\1\C#\Domaschka#8\HJ2\obj\Debug\net7.0\HJ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Айдар\Desktop\1\C#\Domaschka#8\HJ2\obj\Debug\net7.0\HJ2.AssemblyInfoInputs.cache
+C:\Users\Айдар\Desktop\1\C#\Domaschka#8\HJ2\obj\Debug\net7.0\HJ2.AssemblyInfo.cs
+C:\Users\Айдар\Desktop\1\C#\Domaschka#8\HJ2\obj\Debug\net7.0\HJ2.csproj.CoreCompileInputs.cache
+C:\Users\Айдар\Desktop\1\C#\Domaschka#8\HJ2\bin\Debug\net7.0\HJ2.exe
+C:\Users\Айдар\Desktop\1\C#\Domaschka#8\HJ2\bin\Debug\net7.0\HJ2.deps.json
+C:\Users\Айдар\Desktop\1\C#\Domaschka#8\HJ2\bin\Debug\net7.0\HJ2.runtimeconfig.json
+C:\Users\Айдар\Desktop\1\C#\Domaschka#8\HJ2\bin\Debug\net7.0\HJ2.dll
+C:\Users\Айдар\Desktop\1\C#\Domaschka#8\HJ2\bin\Debug\net7.0\HJ2.pdb
+C:\Users\Айдар\Desktop\1\C#\Domaschka#8\HJ2\obj\Debug\net7.0\HJ2.dll
+C:\Users\Айдар\Desktop\1\C#\Domaschka#8\HJ2\obj\Debug\net7.0\refint\HJ2.dll
+C:\Users\Айдар\Desktop\1\C#\Domaschka#8\HJ2\obj\Debug\net7.0\HJ2.pdb
+C:\Users\Айдар\Desktop\1\C#\Domaschka#8\HJ2\obj\Debug\net7.0\HJ2.genruntimeconfig.cache
+C:\Users\Айдар\Desktop\1\C#\Domaschka#8\HJ2\obj\Debug\net7.0\ref\HJ2.dll
